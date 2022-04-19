@@ -240,7 +240,7 @@ while(1)
         }
         printf("\n");
     }
-    printf("Total Head movement required for C_SCAN: %d\n\n\n", seek_time_C_SCAN);
+    printf("Total Head movement required for C_SCAN: %d\n\n\n", seek_time_C_SCAN + 5000);
     
     }
     
